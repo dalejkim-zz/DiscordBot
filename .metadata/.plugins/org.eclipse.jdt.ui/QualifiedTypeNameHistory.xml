@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mysql.cj.jdbc.MysqlConnectionPoolDataSource"/>
+<fullyQualifiedTypeName name="java.security.spec.DSAGenParameterSpec"/>
+<fullyQualifiedTypeName name="db.MySQLConnector"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="io.lettuce.core.KeyValue"/>
+<fullyQualifiedTypeName name="net.dv8tion.jda.core.utils.MiscUtil"/>
+<fullyQualifiedTypeName name="io.javalin.Javalin"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.Server"/>
+<fullyQualifiedTypeName name="com.jagrosh.jdautilities.command.CommandClient"/>
+<fullyQualifiedTypeName name="com.jagrosh.jdautilities.command.CommandClientBuilder"/>
+<fullyQualifiedTypeName name="com.google.common.base.Splitter"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="db.MySQLService"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang3.math.NumberUtils"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+<fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+<fullyQualifiedTypeName name="javax.ws.rs.client.ClientBuilder"/>
+<fullyQualifiedTypeName name="javax.ws.rs.client.Client"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+<fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+<fullyQualifiedTypeName name="spark.Route"/>
+<fullyQualifiedTypeName name="cache.RedisService"/>
+<fullyQualifiedTypeName name="db.QueryService"/>
+<fullyQualifiedTypeName name="cache.CacheService"/>
+<fullyQualifiedTypeName name="api.UserStatsService"/>
+<fullyQualifiedTypeName name="api.UserStats"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+</qualifiedTypeNameHistroy>

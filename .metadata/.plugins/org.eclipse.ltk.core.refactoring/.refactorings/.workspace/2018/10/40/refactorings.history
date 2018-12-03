@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;polybot&apos; to &apos;DiscordBot&apos;&#x0D;&#x0A;- Original element: &apos;polybot&apos;&#x0D;&#x0A;- Renamed element: &apos;polybot&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;polybot&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=polybot" name="DiscordBot" references="true" stamp="1538844614776" version="1.0"/>
+</session>

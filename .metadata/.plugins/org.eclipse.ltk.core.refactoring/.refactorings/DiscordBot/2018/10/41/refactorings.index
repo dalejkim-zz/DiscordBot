@@ -1,0 +1,11 @@
+1538889696551	Rename type 'Handler'
+1538890027760	Rename type 'JerseyClient'
+1538955361960	Delete element
+1538956619073	Rename type 'UserService'
+1538957037181	Rename compilation unit 'UserStatsController.java'
+1538957084687	Rename compilation unit 'Greeting.java'
+1538957092000	Rename compilation unit 'UserStats.java'
+1538958223150	Rename compilation unit 'app.java'
+1538959267147	Delete element
+1538961622072	Rename type 'Greeting'
+1538961627835	Rename type 'GreetingController'

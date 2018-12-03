@@ -1,0 +1,20 @@
+package cache;
+
+import io.lettuce.core.RedisClient;
+import io.lettuce.core.api.StatefulRedisConnection;
+import io.lettuce.core.api.sync.RedisCommands;
+
+public class RedisConfig {
+	
+	RedisCommands<String, String> commands;
+	RedisClient client = RedisClient.create("redis://localhost");
+	StatefulRedisConnection<String, String> connection = client.connect(); 
+	
+	public RedisConfig() {
+		
+	}
+
+	public RedisCommands<String, String> commands() {
+		return commands = connection.sync();
+	}
+}
